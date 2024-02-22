@@ -1,18 +1,17 @@
-from django.http import HttpResponse
 from django.shortcuts import render
 
 posts = [
     {
-        "author": "Umair",
+        "author": "CoreyMS",
         "title": "Blog Post 1",
-        "content": "First Post By Umair (NizzyPedia)",
-        "data_posted": "Feburary 22nd, 2024",
+        "content": "First post content",
+        "date_posted": "August 27, 2018",
     },
     {
-        "author": "Khan",
+        "author": "Jane Doe",
         "title": "Blog Post 2",
-        "content": "Second Post By Khan (NizzyPedia)",
-        "data_posted": "Feburary 31st, 2024",
+        "content": "Second post content",
+        "date_posted": "August 28, 2018",
     },
 ]
 
