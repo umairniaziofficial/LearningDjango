@@ -16,7 +16,7 @@ If you're also learning Django or have insights to share, I welcome your contrib
 **Clone the Repository:** Clone the forked repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/django-learning-repo.git
+git clone https://github.com/umairniaziofficial/LearningDjango.git
 ```
 *Create a Branch:** Before making any changes, create a new branch to work on your feature or fix:
 
